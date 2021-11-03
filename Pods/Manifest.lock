@@ -1,0 +1,20 @@
+PODS:
+  - ISVImageScrollView (0.3.0)
+  - Kingfisher (6.3.1)
+
+DEPENDENCIES:
+  - ISVImageScrollView
+  - Kingfisher (~> 6.3.1)
+
+SPEC REPOS:
+  trunk:
+    - ISVImageScrollView
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  ISVImageScrollView: 2c89840496647af985bfc0e09b346b9aa733ecec
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+
+PODFILE CHECKSUM: 7317327001e92beb4eb98723bb58eb26a54d7fa8
+
+COCOAPODS: 1.10.1
